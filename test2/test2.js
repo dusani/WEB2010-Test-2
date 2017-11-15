@@ -57,7 +57,7 @@ class NewProducts {
       // console.log(item.price);
       return sum + item.price
     }, 0)
-    return filterItems * 35
+    return `$${(filterItems * 35).toFixed(2)}`
   }
 }
 
