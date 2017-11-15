@@ -8,13 +8,13 @@ const itemsArray = [
   {
     itemId: 857147,
     name: "Macbook",
-    price: 1700.00,
+    price: 1700.17,
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ne."
   },
   {
     itemId: 992324,
     name: "Coffee",
-    price: 3.00,
+    price: 3.59,
     description: "Morbi lacinia molestie dui."
   },
   {
@@ -26,7 +26,7 @@ const itemsArray = [
   {
     itemId: 769984,
     name: "Fedora Hat",
-    price: 5.00,
+    price: 5.69,
     description: "Sed cursus ante dapibus diam. Sed nisi."
   }
 ]
