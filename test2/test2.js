@@ -39,7 +39,7 @@ class NewProducts {
     this.increasedOrders = this.orderItems(this.itemsArray)
   }
 
-  getNames() {
+  getNames(itemsArray) {
     let newNamesArray =  itemsArray.map(function (item) {
       return item.name
     })
